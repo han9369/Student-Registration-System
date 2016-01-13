@@ -11,7 +11,6 @@ ID: 2
 Psaaword: 222
 
 
-
 c_ID  c_capacity  c_Credit    c_Name
  
  1	     50	         3	     CMPT 354  
