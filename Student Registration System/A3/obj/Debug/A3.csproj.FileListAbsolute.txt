@@ -1,0 +1,17 @@
+U:\CMPT354\A3\A3\bin\Debug\A3.exe.config
+U:\CMPT354\A3\A3\bin\Debug\A3.exe
+U:\CMPT354\A3\A3\bin\Debug\A3.pdb
+U:\CMPT354\A3\A3\obj\Debug\A3.Properties.Resources.resources
+U:\CMPT354\A3\A3\obj\Debug\A3.csproj.GenerateResource.Cache
+U:\CMPT354\A3\A3\obj\Debug\A3.exe
+U:\CMPT354\A3\A3\obj\Debug\A3.pdb
+U:\CMPT354\A3\A3\obj\Debug\A3.Form_login.resources
+U:\CMPT354\A3\A3\obj\Debug\A3.Form_search.resources
+U:\CMPT354\A3\A3\obj\Debug\A3.csprojResolveAssemblyReference.cache
+U:\CMPT354\A3\A3\obj\Debug\A3.Form_report.resources
+\\freesia\userdata\hga13\Desktop\cmpt 354\354\354_a3\A3\A3\bin\Debug\A3.exe.config
+\\freesia\userdata\hga13\Desktop\cmpt 354\354\354_a3\A3\A3\obj\Debug\A3.exe
+\\freesia\userdata\hga13\Desktop\cmpt 354\354\354_a3\A3\A3\obj\Debug\A3.pdb
+C:\Users\han_778\Google Drive\SFU\cmpt 354\354\354_a3\A3\A3\bin\Debug\A3.exe.config
+C:\Users\han_778\Google Drive\SFU\cmpt 354\354\354_a3\A3\A3\obj\Debug\A3.exe
+C:\Users\han_778\Google Drive\SFU\cmpt 354\354\354_a3\A3\A3\obj\Debug\A3.pdb
